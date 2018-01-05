@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.android.mogifortourists.DetailsActivity">
+
+        <ImageView
+            android:id="@+id/details_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/spots_pico_do_urubu"/>
+
+        <TextView
+            android:id="@+id/details_title_text_view"
+            android:textColor="@color/colorText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            tools:text="@string/spot_title_one"/>
+        <LinearLayout
+            android:background="@color/colorBackgroundWhite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="4dp"
+            android:paddingLeft="16dp">
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_margin="4dp"
+                android:src="@drawable/ic_place_black_36dp"/>
+            <TextView
+                android:id="@+id/details_where_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                tools:text="@string/spot_where_one"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBackgroundWhite"
+            android:orientation="horizontal"
+            android:paddingBottom="4dp"
+            android:paddingLeft="16dp">
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_margin="4dp"
+                android:src="@drawable/ic_query_builder_black_36dp"/>
+            <TextView
+                android:id="@+id/details_when_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                tools:text="@string/spot_when_one"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/details_text_text_view"
+            android:textColor="@color/colorText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            tools:text="@string/spot_text_one"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b53f47</color>
+    <color name="colorPrimaryDark">#9f3034</color>
+    <color name="colorAccent">#ff404d</color>
+    <color name="colorSection">#be6b6c</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="colorSpinnerBackground">#d9e4ff</color>
+
+    <color name="colorTextSection">#FAFAFA</color>
+    <color name="colorTextPublishDate">#AAAAAA</color>
+</resources>

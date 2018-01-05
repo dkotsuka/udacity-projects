@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="published_in">Published in </string>
+    <string name="section_choose">Choose a section:</string>
+    <string name="nothing_found">"No information found."</string>
+    <string name="no_internet">"No internet connection."</string>
+    <string name="refresh">Refresh</string>
+    <string name="problem_http">Problem making the HTTP request.</string>
+    <string name="problem_parsing_date">Problem parsing date String to Date.</string>
+    <string name="problem_parsing_json">Problem parsing the books JSON results.</string>
+    <string name="error_code">Error response code:</string>
+    <string name="error_json_result">Problem retrieving the articles JSON results.</string>
+
+    <string-array name="sections">
+        <item>World news</item>
+        <item>Arts and Design</item>
+        <item>Tecnology</item>
+        <item>Money</item>
+        <item>Last news</item>
+    </string-array>
+</resources>

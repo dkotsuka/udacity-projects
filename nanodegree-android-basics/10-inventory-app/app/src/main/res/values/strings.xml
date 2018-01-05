@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="price">Price: </string>
+    <string name="currency">$</string>
+    <string name="items_available">Items available:</string>
+    <string name="in_stock">In Stock: </string>
+    <string name="sale">Sale one</string>
+    <string name="out_of_stock">Out of Stock!</string>
+
+    <string name="editor_title">Item Title*:</string>
+    <string name="editor_description">Item Description:</string>
+    <string name="editor_price">Price*:</string>
+    <string name="editor_quantity">Quantity*:</string>
+    <string name="editor_notes">(*) required field.</string>
+    <string name="editor_hint_title">Item name</string>
+    <string name="editor_hint_description">Add a item description.</string>
+    <string name="editor_hint_price">Unit price</string>
+    <string name="editor_hint_quantity">Quantity available</string>
+    <string name="editor_suplier_contact">Supplier contact*:</string>
+    <string name="editor_add_description">Add a item description.</string>
+    <string name="editor_hint_contact">Phone number</string>
+    <string name="editor_order_button">Order more!</string>
+    
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="discard">Discard</string>
+    <string name="delete_all">Delete All</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="delete_confirmation">Are you sure you want to delete this item?</string>
+    <string name="unsave_confirmation">There are unsaved information. Do you wish to
+        continue?</string>
+    <string name="delete_all_confirmation">Are you sure you want to delete all entries?</string>
+    <string name="invalid_input">There are some blank required fields. Please, check up.</string>
+    <string name="add_message">How many units you want to add?</string>
+    <string name="remove_message">How many units you want to remove?</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+
+    <string name="exception_query_unknown_uri">Cannot query unknown URI </string>
+    <string name="exception_insert_error">Insertion is not supported for </string>
+    <string name="exception_insert_name_error">Item register requires a name</string>
+    <string name="exception_insert_description_error">Item register requires a description</string>
+    <string name="exception_insert_quantity_error">Item register requires a quantity</string>
+    <string name="exception_insert_price_error">Item register requires a price</string>
+    <string name="exception_insert_row">Failed to insert row for </string>
+    <string name="exception_update_error">Update is not supported for </string>
+    <string name="exception_delete_error">Deletion is not supported for </string>
+    <string name="exception_unknown_uri">Unknown URI </string>
+    <string name="exception_with_match"> with match </string>
+    <string name="exception_inputstream">Error while trying to handle selected image.</string>
+
+    <string name="toast_item_saved">Item saved successfully.</string>
+    <string name="toast_item_updated">Item updated successfully.</string>
+    <string name="toast_item_deleted">Item deleted successfully</string>
+    <string name="toast_rows_deleted">row(s) was deleted.</string>
+    <string name="toast_inventory_empty">Inventory is empty. Nothing was deleted.</string>
+    <string name="toast_greater_than_quantity">the value entered is greater than the quantity
+        available.</string>
+
+</resources>

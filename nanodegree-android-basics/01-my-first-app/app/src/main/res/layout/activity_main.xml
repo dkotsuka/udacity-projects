@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.spprevapp.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="8dp"
+
+        android:src="@drawable/spprev_p"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ilustration"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="4dp"
+        android:paddingLeft="8dp"
+        android:text="SPPREV - SÃO PAULO PREVIDÊNCIA"
+        android:background="#c0e7e8"
+        android:textColor="#31b0b2"
+        android:textSize="18dp"
+        android:textStyle="bold"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <ImageView
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_margin="8dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/local"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            android:paddingLeft="8dp"
+            android:text="Sede - Rua Bela Cintra, 657\nConsolação - São Paulo/SP\nCEP: 01415-003"
+            android:textSize="16dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <ImageView
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_margin="8dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/hora"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            android:paddingLeft="8dp"
+            android:text="Horário de funcionamento\nseg. à sex: das 9 às 16hs"
+            android:textSize="16dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <ImageView
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_margin="8dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/contato"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            android:paddingLeft="8dp"
+            android:text="Teleatendimento (0800 777 7738)\nseg. à sex: das 8 às 21hs\nsáb.: das 8 às 16hs"
+            android:textSize="16dp"/>
+    </LinearLayout>
+
+</LinearLayout>

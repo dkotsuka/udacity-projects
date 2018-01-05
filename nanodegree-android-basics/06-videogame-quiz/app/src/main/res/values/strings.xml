@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">VideoGameQuizz</string>
+    <string name="intro">Bem vindo! Neste quiz vamos testar um pouco seus conhecimentos sobre a
+        história dos video-games. Mas primeiro, diga-nos o seu nome:</string>
+    <string name="your_name">DIGITE SEU NOME AQUI.</string>
+    <string name="question_one">Agora, vamos logo às perguntas!\n1 - Em qual dia é comemorado o
+        Dia Mundial do
+        Gamer?</string>
+    <string name="quest_one_asw_one">12 de outubro</string>
+    <string name="quest_one_asw_two">26 de abril</string>
+    <string name="quest_one_asw_three">29 de agosto</string>
+    <string name="quest_one_asw_four">25 de dezembro</string>
+    <string name="question_two">2 - Em que ano foi lançado o primeiro console de video-game no
+        mundo?</string>
+    <string name="your_aswer">SUA RESPOSTA</string>
+    <string name="question_three">3 - Qual é o console mais vendido de todos os tempos?</string>
+    <string name="quest_three_asw_one">Playstaion 2</string>
+    <string name="quest_three_asw_two">Super Nintendo</string>
+    <string name="quest_three_asw_three">Nintendo DS</string>
+    <string name="quest_three_asw_four">Game Boy</string>
+    <string name="question_four">4 - Qual dessas empresas é a mais antiga?</string>
+    <string name="quest_four_asw_one">Sony</string>
+    <string name="quest_four_asw_two">Nintendo</string>
+    <string name="quest_four_asw_three">Sega</string>
+    <string name="quest_four_asw_four">Microsoft</string>
+    <string name="question_five">5 - Quatro das franquias abaixo pertencem à Nintendo.
+        Quais?</string>
+    <string name="quest_five_asw_one">Excitebike</string>
+    <string name="quest_five_asw_two">Tetris</string>
+    <string name="quest_five_asw_three">F-Zero</string>
+    <string name="quest_five_asw_four">Ice Climber</string>
+    <string name="quest_five_asw_five">Centipede</string>
+    <string name="quest_five_asw_six">Pikimin</string>
+    <string name="quest_five_asw_seven">Contra</string>
+    <string name="quest_five_asw_eight">Asteroids</string>
+    <string name="question_six">6 - Qual desses jogos foi baseado em um desenho animado?</string>
+    <string name="quest_six_asw_one">Monster Rancher</string>
+    <string name="quest_six_asw_two">Dungeons &amp; Dragons</string>
+    <string name="quest_six_asw_three">Pokémon</string>
+    <string name="quest_six_asw_four">Yugioh</string>
+    <string name="question_seven">7 - Qual dessas franquias não foi produzida por uma
+        empresa japonesa?</string>
+    <string name="quest_seven_asw_one">Street Fighter</string>
+    <string name="quest_seven_asw_two">Tekken</string>
+    <string name="quest_seven_asw_three">Mortal Kombat</string>
+    <string name="quest_seven_asw_four">The King of Fighters</string>
+
+    <string name="send_answer">ENVIAR REPOSTAS</string>
+    <string name="show_answer">MOSTRAR RESPOSTAS</string>
+
+    <string name="no_answer">Você não respondeu a questão número %1$d.</string>
+
+    <string name="no_name">amigx</string>
+
+    <string name="zeroCorrect">Poxa, %1$s, infelizmente você não acertou nenhuma das respostas
+        .</string>
+    <string name="oneCorrect">Poxa, %1$s, você conseguiu apenas 1 ponto de 10.</string>
+    <string name="halfCorrect">Poxa, %1$s, você fez apenas %2$d pontos de 10.</string>
+    <string name="halfMoreCorrect">Parabéns, %1$s, voce fez %2$d pontos de 10.</string>
+    <string name="allCorrect">Incrível, %1$s, você acertou todas as perguntas! Parabéns!</string>
+</resources>

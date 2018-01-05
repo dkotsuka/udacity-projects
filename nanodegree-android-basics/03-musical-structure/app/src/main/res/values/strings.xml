@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="now_playing">Em Execução</string>
+    <string name="music_buy">Comprar Músicas</string>
+    <string name="song_detail">Detalhes da Faixa</string>
+    <string name="playlist">Editor de Playlist</string>
+    <string name="back">Voltar</string>
+
+    <string name="title">Propósito da tela e obstáculos</string>
+
+    <string name="main_text">\nEsta é a tela inicial do aplicativo. Nela também será exibida a
+        música em execução e, caso o usuário tenha reiniciado o aplicativo, será carregada com o
+        último arquivo executado.
+        \n\nA view deve ser capaz de reproduzir arquivos de música
+        diretamente da biblioteca do usuário ou de uma playlist prédefinida no próprio
+        aplicativo.
+        \n\nPara a execução pode-se usar a classe MediaPlayer e carregar um banco SQL
+        para as playlists salvas.\n</string>
+
+    <string name="store_text">\nNesta tela, o usuário poderá adquirir novas faixas para sua
+        playlist.
+        \n\nA activity deverá ser capaz de enviar e receber dados de compra para uma biblioteca
+        online, assim como realizar o download das novas faixas.
+        \n\nA biblioteca do Google Play Billing Library pode ser util para o faturamento das
+        faixas compradas por meio do aplicativo.\n</string>
+
+    <string name="play_text">\nNesta tela, o usuário poderá editar sua playlist com base em
+        músicas existentes na memória do dispositivo.
+        \n\nA Activity deve ser capaz de ler a memória do dispositivo e armazenar dados de forma
+        persistente.
+        \n\nA classe MediaStore pode ser utilizada para a leitura da memória em busca de arquivos
+        de música, enquanto um banco de dados SQL pode alocar as playlists editadas pelo
+        usuário.\n</string>
+
+    <string name="detail_text">\nNesta activity o usuário terá informações sobre uma faixa
+        específica, como o nome do artista, compositor, ano de lançamento, álbum, etc.
+        \n\nA activity deverá ser capaz de receber um identificador da faixa específica e
+        carregar os dados correspondentes.
+        \n\nPode se utilizar a classe MediaMetadataRetriever para carregar os dados diretamente
+        do arquivo de audio, e um método interno do aplicativo identificará o arquivo a ser
+        pesquisado e informará o MediaMetadataRetrieve.\n</string>
+</resources>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context="com.example.android.inventoryapp.EditorActivity">
+
+        <TextView
+            style="@style/TitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/editor_title"/>
+
+        <EditText
+            android:id="@+id/editor_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/editor_hint_title"
+            style="@style/BackgroundStyle"
+            android:textSize="24sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/editor_image_view"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="center"
+                android:background="@color/secondaryLightColor"
+                android:padding="50dp"
+                android:src="@drawable/ic_add_a_photo_white_48dp"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    style="@style/TitleStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/editor_description"/>
+
+                <EditText
+                    android:id="@+id/editor_item_description"
+                    style="@style/BackgroundStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="start"
+                    android:hint="@string/editor_add_description"
+                    android:textSize="16sp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <TextView
+            style="@style/TitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/editor_price"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/currency"
+                android:layout_marginRight="10dp"
+                android:textSize="20sp"/>
+
+            <EditText
+                android:id="@+id/editor_price"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                style="@style/BackgroundStyle"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:hint="@string/editor_hint_price"
+                android:inputType="numberDecimal"
+                android:textSize="24sp"/>
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/TitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/editor_quantity"/>
+
+        <EditText
+            android:id="@+id/editor_quantity_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/BackgroundStyle"
+            android:gravity="end"
+            android:hint="@string/editor_hint_quantity"
+            android:inputType="number"
+            android:textSize="24sp"/>
+
+        <LinearLayout
+            android:id="@+id/quantity_edit_field"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/editor_quantity_textview"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:paddingRight="10dp"
+                android:textSize="24sp"/>
+
+            <ImageButton
+                android:id="@+id/add_button"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_margin="4dp"
+                android:background="@drawable/button_selector"
+                android:src="@drawable/ic_add_white_48dp"/>
+
+            <ImageButton
+                android:id="@+id/remove_button"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_margin="4dp"
+                android:background="@drawable/button_selector"
+                android:src="@drawable/ic_remove_white_48dp"/>
+        </LinearLayout>
+
+        <TextView
+            style="@style/TitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp"
+            android:text="@string/editor_suplier_contact"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/editor_supplier_contact"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:hint="@string/editor_hint_contact"
+                android:inputType="phone"
+                style="@style/BackgroundStyle"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/editor_order_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                style="@style/ButtonStyle"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/editor_order_button"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/editor_notes"
+            />
+
+    </LinearLayout>
+</ScrollView>

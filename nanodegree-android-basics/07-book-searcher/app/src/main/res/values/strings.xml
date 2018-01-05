@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookSearcher</string>
+    <string name="search_hint">Buscar obra ou autor</string>
+    <string name="search">Buscar</string>
+    <string name="unidentified">Não identificado</string>
+    <string name="nothing_found">Nenhum resultado foi encontrado.</string>
+    <string name="no_internet">Sem conexão com a internet.</string>
+</resources>

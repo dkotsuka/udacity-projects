@@ -1,0 +1,315 @@
+<resources>
+    <string name="app_name">Mogi para Turistas</string>
+    <string name="about">Sobre a Cidade</string>
+    <string name="spots">Picos Turísticos</string>
+    <string name="restaurants">Onde Comer</string>
+    <string name="to_buy">Compras e etc</string>
+    <string name="festivals">Festivais</string>
+
+    <string name="history_city_name">Mogi das Cruzes</string>
+    <string name="history_city_foundation">	1 de setembro de 1560</string>
+    <string name="history_city_inhabitants">433.901 habitantes</string>
+    <string name="history_city_area">713.291 km²</string>
+
+    <string name="history_text">\t\t\tMogi das Cruzes é a cidade mais importante da região do
+        Alto-Tietê, na macro região da Grande São Paulo. Fundada em primeiro de setembro de 1560,
+        como povoado, e servindo como ponto de descanso na rota dos bandeirantes para São Paulo,
+        ganhou status de “vila” no ano de 1611, elevado a “cidade” em 1865, e finalmente a
+        “comarca” em 1874.\n\n\t\t\tA cidade é famosa por acolher imigrantes de toda parte do
+        mundo, com destaque às comunidades nipônica e sirio libanesa, assim como de outras
+        regiões do Brasil, como nordestinos, mineiros e paranaenses. Essa mistura se reflete no
+        modo de vida do mogiano, enriquecendo muito a cultura da cidade.</string>
+
+    <string name="spot_title_one">Pico do Urubu</string>
+    <string name="spot_title_two">Praça da Matriz</string>
+    <string name="spot_title_three">Praça do Carmo</string>
+    <string name="spot_title_four">Parque do Centenário</string>
+    <string name="spot_title_five">Teatro Municipal</string>
+    <string name="spot_title_six">Casarão do chá</string>
+    <string name="spot_title_seven">Orquidário Oriental</string>
+    <string name="spot_title_eight">Parque das Neblinas</string>
+    <string name="spot_title_nine">Parque Francisco de Mello</string>
+    <string name="spot_title_ten">Estádio do Nogueirão</string>
+    <string name="spot_text_one">\t\tCom uma vista privilegiada de 360º da cidade e uma altitude
+        de 1.160m acima do nível do mar, quem gosta de se sentir nas nuvens, encontra no Pico do
+        Urubu a estrutura necessária para observar a cidade ou voar de paraglider ou asa delta. O
+        voo livre vem colorindo os céus de Mogi das Cruzes há quase 30 anos.\n\n\t\tLocalizado em
+        um ponto culminante da Serra do Itapety é uma formação natural frequentado por
+        praticantes de voo livre, principalmente o parapente.\n\n\t\tAmantes de esportes
+        radicais, os membros do Mogi Clube de Voo Livre frenquentam o pico assiduamente e também
+        fazem voos duplos com interessados em conhecer o esporte. No Pico do Urubu podem ser
+        realizados voos de parapente ou asa delta, mas atualmente o parapente é mais praticado.</string>
+    <string name="spot_text_two">\t\tConstruída no mesmo local, onde foi erguida a primeira
+        capela do povoamento, e em 1902 foi construída uma igreja destinada a Padroeira
+        Sant\’Anna. Em 1952 foi idealizada pelo Monsenhor Roque Pinto de Barros, Vigário da
+        Paróquia, uma nova igreja matriz. O projeto de sua construção foi inspirado na
+        arquitetura romana dos primeiros templos cristãos, sua fachada compõem-se de um corpo
+        central, correspondente a nave principal, ladeado por duas torres. Um conjunto de três
+        pórticos em arco sobressai-se na formação do lado externo. Sob a torre direita
+        localiza-se o batistério. A Igreja Matriz de Sant\’Anna, marca o Centro Histórico inicial
+        da cidade de Mogi das Cruzes.</string>
+    <string name="spot_text_three">\t\tO conjunto das Igrejas do Carmo é composto de dois
+        edifícios, ligados internamente por um pátio localizado atrás da torre sineira. É um dos
+        patrimônios históricos da cidade tombados pelo Instituto do Patrimônio Histórico e
+        Artístico Nacional (Iphan). A Igreja da Ordem Primeira é a mais antiga, datando sua
+        construção de 1633. A Igreja da Ordem Terceira (a da esquina) foi construída em 1780 e,
+        como as igrejas de terceiros, visa atender aos leigos consagrados à devoção
+        carmelita.</string>
+    <string name="spot_text_four">\t\tA área do atual Parque Centenário já foi, na década de 70,
+        uma importante fonte de extração de areia para o Município de Mogi das Cruzes, através da
+        Empresa de Mineração Lopes, que explorou o mineral utilizando a técnica de desmonte
+        hidráulico nas proximidades das margens do Rio Tietê. Com o esgotamento do minério, o
+        lençol freático que alimenta o Rio Tietê aflorou, formando os enormes lagos
+        atuais.\n\n\t\tApós um período de inatividade, o local foi utilizado como pesqueiro. Em
+        meados de 2007, foi idealizado um parque homenageando o centenário da imigração japonesa
+        e, em 28 de junho de 2008, foi inaugurado o Parque Centenário. Com 21,5 hectares, sua
+        área inclui quatro lagos com pontes flutuantes em estilo oriental, a praça do Imigrante,
+        espaço Bom Odori–Samba, Posto de Informações Turísticas, locação de Stand Up Paddle,
+        entre outros.\n\n\t\tO parque está inserido na Área de Proteção Ambiental da Várzea do
+        Rio Tietê. Em alguns trechos das margens do rio foram plantadas mudas nativas visando
+        restaurar a mata ciliar existente. Em outros pontos, somente o enriquecimento florestal.
+        No interior do parque, entre as espécies plantadas estão ipês, paineiras, quaresmeiras,
+        palmeiras e uma grande quantidade de cerejeiras, árvore símbolo do Japão. O parque preza
+        por possuir extensa trilha que margeia a faixa de preservação permanente do rio, também
+        por possuir áreas de playground, museus e áreas cobertas para eventos, possibilitando uma
+        maior integração entre a comunidade e o parque urbano.\n\n\t\tDa avifauna encontrada,
+        existem 86 espécies como quero-quero, anus, sabiás, saíras, socós e garças, entre outros.</string>
+    <string name="spot_text_five">\t\tEspaço cultural com foco em peças teatrais e apresentações
+        de dança, cursos e palestras em sobrado centenário.\n\n\t\tA pedra fundamental foi
+        lançada em 19 de setembro de 1901 e o Theatro foi inaugurado em 06 de dezembro de 1902.
+        Com o advento do cinema e o declínio de certos espetáculos teatrais, o Theatro Vasques
+        acabou tornando-se sede da Câmara Municipal de 1936 a 1937, quando foi fechado pelo
+        Estado Novo, e só foi reaberto em 1948 para abrigar novamente a Câmara Municipal. A
+        partir de 1980, o teatro é reformado e reinaugurado, como Teatro Municipal \"Paschoal
+        Carlos Magno\". Após nova reforma em 2002, o Teatro volta a chamar-se \"Theatro
+        Vasques\". O projeto original do edifício, cenografia, pintura e distribuição interna,
+        inclusive os camarins, foram confiados ao ator Roque de Castilhos, ex-aluno da Escola
+        Politécnica do Rio de Janeiro.\n\n\t\tO prédio foi tombado pelo Conselho Municipal de
+        Preservação do Patrimônio Histórico, Cultural, Artístico e Paisagístico de Mogi das
+        Cruzes – COMPHAP</string>
+    <string name="spot_text_six">\t\tLocalizado no Cocuera, bairro rural de Mogi, o Casarão do
+        Chá é uma importante herança da arquitetura japonesa no Brasil. Tem toda a estrutura
+        feita de madeira – em sua construção não foram usados pregos ou parafusos, só encaixes de
+        madeira (tradicional técnica japonesa usada por causa dos constantes terremotos). As
+        vigas são de madeira in natura e em cada encaixe há um signo em kandi (ideogramas). A
+        cobertura é a tradicional irimoya (telhado côncavo, voltado para dentro) e a planta é
+        livre (com poucas divisões internas).</string>
+    <string name="spot_text_seven">\t\tAs primeiras atividades do Orquidário começaram em 1984. No
+        local era produzida apenas uma variedade de orquídea, a Dendrobium Nobile, conhecida
+        popularmente como Olho de Boneca. Em 1986, o espaço recebeu o nome de Orquidário
+        Oriental. Atualmente são produzidas diversas variedades de orquídeas e o Orquidário é
+        referência no cultivo.\n\n\t\tHá mais de 20 anos o Orquidário Oriental investe e trabalha
+        para o desenvolvimento e aprimoramento das belezas das orquídeas. A sua disposição o
+        Orquidário possui uma infra-estrutura de mais de 20 mil metros quadrados entre estufas e
+        laboratório, produzindo cerca de 300 mil plantas floridas e 1 milhão de mudas ao ano das
+        mais variadas espécies.\n\n\t\tO Orquidário Oriental ainda conta com uma loja show-room,
+        localizada no Parque Hana no Mori, a 50 km de São Paulo, que em meio a muita área verde e
+        as belas paisagens da Serra do Itapeti, oferece suporte de serviços e produtos para quem
+        se interessa pelo cultivo de orquídeas, além de amplo estacionamento e área de
+        alimentação.\n\n\t\tTanta organização e tradição resultam em exemplares exuberantes,
+        ricos em cores e formas, com ótimo custo benefício para admiradores de flores e
+        orquidófilos.\n\n\t\tAtrativos: Orquídeas, insumos, vasos, artesanato, frutas e
+        restaurante.</string>
+    <string name="spot_text_eight">\t\tO Parque das Neblinas é um reserva privada administrada
+        pelo Instituto Ecofuturo, localizada no limite dos municípios de Mogi das Cruzes e
+        Bertioga. Reconhecido desde 2006 como Posto Avançado da Reserva da Biosfera do Cinturão
+        Verde da Cidade de São Paulo. É um pólo de educação ambiental, pesquisa científica,
+        cultivo de espécies ameaçadas e turismo ecológico. O Parque possui trilhas, nascente,
+        cachoeira da mineração e passarela suspensa (com 100 m de extensão).\n\n\t\tO parque traz
+        consigo a proposta de gestão a partir do desenvolvimento de tecnologias socioambientais,
+        onde o relacionamento com a comunidade permeia todos os seus programas.\n\n\t\tO Parque
+        das Neblinas é uma excelente opção de ecoturismo. Conta com uma boa infraestrutura de
+        receptivo. Café da manhã e almoço pagos à parte e deliciosos. Em relação ao ecoturismo
+        conta com trilhas autoguiadas e uma trilha monitorada que deve ser agendada
+        antecipadamente e ter no mínimo 6 pessoas.</string>
+    <string name="spot_text_nine">\t\tO Parque Natural Municipal Francisco Affonso de Mello –
+        Chiquinho Veríssimo, na Serra do Itapeti, pode ser considerado um grande viveiro da
+        flora e fauna nativas da Mata Atlântica na cidade. Com área de 353 hectares, o local
+        é hoje ponto de referência para trabalhos científicos e referencial para a comunidade,
+        que participa de visitas monitoradas.</string>
+    <string name="spot_text_ten">\t\tO estádio municipal Francisco Ribeiro Nogueira, conhecido
+        como Nogueirão, recebe os jogos de competições oficiais da Federação Paulista de Futebol,
+        partidas decisivas da Liga Municipal de Futebol e também eventos beneficentes. O local,
+        construído na década de 1990, tem capacidade para cerca de 10 mil pessoas.\n\n\t\tAlém
+        das dependências do estádio, o complexo do Nogueirão também possui uma quadra para a
+        prática de Street Ball, o basquete de rua. A estrutura foi montada em uma área pública,
+        antes sem utilização, ao lado do estádio e pode ser utilizada pela comunidade.</string>
+    <string name="spot_when_one">Sempre aberto</string>
+    <string name="spot_when_two">Sempre aberto</string>
+    <string name="spot_when_three">Sempre aberto</string>
+    <string name="spot_when_four">Todos os dias, das 7 às 18 horas</string>
+    <string name="spot_when_five">Aberto eventualmente.</string>
+    <string name="spot_when_six">Aos domingos, a partir das 9h</string>
+    <string name="spot_when_seven">De terça a domingo, inclusive feriados, das 9 às 17 horas</string>
+    <string name="spot_when_eight">As visitas devem ser agendadas.</string>
+    <string name="spot_when_nine">As visitas devem ser agendadas.</string>
+    <string name="spot_when_ten">Aberto eventualmente.</string>
+    <string name="spot_where_one">Estrada da Cruz do Século</string>
+    <string name="spot_where_two">R. Dr. Paulo Frontin</string>
+    <string name="spot_where_three">Rua São João, s/nº, Largo do Carmo</string>
+    <string name="spot_where_four">Av. Francisco Rodrigues Filho, 2006</string>
+    <string name="spot_where_five">R. Dr. Corrêa</string>
+    <string name="spot_where_six">Estrada do Nagao, km 3 (Estrada Mogi-Salesópolis)</string>
+    <string name="spot_where_seven">Estrada Taboão do Parateí, km 27, Itapeti</string>
+    <string name="spot_where_eight">Taiaçupeba</string>
+    <string name="spot_where_nine">Via Benedito Ferreira Lopes, 160, Serra do Itapeti</string>
+    <string name="spot_where_ten">R. Antônio Ferreira de Souza</string>
+    <string name="to_buy_title_one">Mercado Municipal</string>
+    <string name="to_buy_title_two">Calçadão</string>
+    <string name="to_buy_title_three">MogiShopping</string>
+    <string name="to_buy_title_four">Mercado do Produtor</string>
+    <string name="to_buy_title_five">Feira Noturna</string>
+    <string name="to_buy_text_one">\t\tHá mais de 100 anos instalado na região central da Cidade,
+        o Mercado Municipal oferece grande variedade de produtos. O prédio atual, porém, é mais
+        recente e foi inaugurado em 1o de setembro de 1965, após ser demolido em 1960. Durante a
+        semana, cerca de 3 mil pessoas por dia passam por lá e, aos finais de semana, este número
+        sobe para até 5 mil visitantes. Nos boxes, há frutas, flores, cereais, laticínios,
+        brinquedos, roupas, bijuterias, artigos de pesca, utensílios domésticos, doces e
+        salgados, com destaque para os melhores pastéis.</string>
+    <string name="to_buy_text_two">\t\tA área comercial que compreende as ruas Dr. Paulo Frontin
+        e Dr. Deodato Wertheimer, na região central de Mogi das Cruzes, é um dos principais
+        centros de compras da Cidade. Com amplo espaço destinado aos pedestres, o local reúne
+        estabelecimentos dos mais diversos setores, como vestuário, calçados, perfumes,
+        acessórios, brinquedos, bijuterias, armarinhos e tecidos, entre outros, que oferecem
+        grande variedade de produtos. Na Rua Doutor Deodato Wertheimer e outras vias da região
+        central do Distrito de Braz Cubas, o consumidor também encontra opções de compras nos
+        mais diversos segmentos.</string>
+    <string name="to_buy_text_three">\t\tO Mogi Shopping é o maior centro de compras do Alto
+        Tietê, construído em terreno de 109 mil m² e composto por 171 lojas, com um mix
+        bastante variado nas áreas de lazer, serviços, alimentação, vestuário, acessórios,
+        além de grandes redes, magazines e academia. Mensalmente, recebe um público médio de
+        600 mil clientes, que ultrapassa a casa de um milhão de pessoas nos últimos meses do
+        ano. Destacam-se como âncoras: C&amp;A, Casas Bahia, Lojas Marisa, Lojas Americanas,
+        Riachuelo e Preçolândia, além das megalojas Fast Shop, Ri Happy, Mogi Play e
+        Pernambucanas, entre outras.</string>
+    <string name="to_buy_text_four">\t\tDe segunda a sábado o local é um grande mercado
+        atacadista de hortifrutigranjeiros do Alto Tietê. Hoje, recebe até mesmo comerciantes de
+        outras regiões do Estado, como o Vale do Paraíba, Litoral e Grande São Paulo, que
+        procuram alternativas à Ceagesp, na Capital. Às sextas, ainda sedia um grande mercado de
+        peixes ornamentais, aberto não apenas para comerciantes mas também para o público em
+        geral, das 14 às 18 horas. Já aos domingos, o espaço abriga o tradicional Varejão da
+        Cobal, com centenas de barracas de frutas, verduras, legumes, flores, pastéis, tempurás e
+        outras atrações. </string>
+    <string name="to_buy_text_five">\t\tTodas as quintas-feiras, das 16 às 21 horas, os
+        consumidores conferem a Feira Noturna de Mogi, com diversos produtos, como legumes,
+        hortaliças, frutas e verduras, além de orquídeas e outros tipos de flores, artigos
+        japoneses, condimentos e peixes ornamentais. Os visitantes também podem degustar no local
+        ou levar para casa pastel, temaki, tempurá, yakissoba, paella e comida mineira. Na
+        entrada, estão instaladas barracas de artesanato. Acontece no prédio da Secretaria
+        Municipal de Agricultura, na região central da Cidade e, assim como as 16 feiras livres e
+        6 varejões distribuídos pelos bairros de Mogi, traz o melhor da produção agrícola do
+        Município.</string>
+    <string name="to_buy_when_one">De segunda a sexta-feira, das 7 às 18h; aos sábados, das 7 às
+        16h; e aos domingos, das 7 às 12h</string>
+    <string name="to_buy_when_two">Aberto em horário comercial.</string>
+    <string name="to_buy_when_three">De segunda a sábado, das 10h às 22h / dom das 12h às 20h</string>
+    <string name="to_buy_when_four">Vendas no atacado: segunda a sexta-feira, das 4 às 17 horas Vendas no varejo: domingo, das 6 às 12 horas.</string>
+    <string name="to_buy_when_five">Quintas-feiras, das 16 às 21 horas</string>
+    <string name="to_buy_where_one">R. Pres. Rodrigues Alves</string>
+    <string name="to_buy_where_two">R. Dr. Paulo Frontin</string>
+    <string name="to_buy_where_three">Av. Ver. Narciso Yague Guimarães, 1001</string>
+    <string name="to_buy_where_four">Av. Prefeito Carlos Ferreira Lopes, 550 - Mogilar</string>
+    <string name="to_buy_where_five">Rua Braz Cubas, 470, Centro</string>
+    <string name="festivals_title_one">Festa da Primavera</string>
+    <string name="festivals_title_two">Festa do Outono</string>
+    <string name="festivals_title_three">Festa do Divino</string>
+    <string name="festivals_text_one">\t\tMogi das Cruzes é o maior produtor agrícola do Estado,
+        levando assim, a denominação de \"cinturão verde\". As propriedades tipicamente de
+        hortifrutigranjeiros são responsáveis pela maior parte do abastecimento de São Paulo e do
+        Rio de Janeiro. Em função da potencialidade agrícola Gardene avícola, a festa mantêm
+        tradição até hoje. Inicialmente, levava o nome de \"Festa do Pêssego e da Avicultura\". É
+        realizada no mês de novembro, no bairro do Cocuera.</string>
+    <string name="festivals_text_two">\t\tFesta do Outono celebrada pela colônia japonesa para
+        agradecer a chegada da nova estação, celebrar a boa colheita e mostrar a cultura
+        oriental. Em quatro dias, o evento conta com apresentações de taikô e as cerimônias do
+        Chá, Tooro Nagashi e Shodo. A festa se estende por quatro dias, durante o mês de abril.</string>
+    <string name="festivals_text_three">\t\tMogi realiza uma das mais antigas e tradicionais
+        festas do Divino Espírito Santo que se tem notícia no Brasil. Ocorre sempre no período de
+        Pentecostes (50 dias após a Páscoa) unindo religiosidade e manifestações populares que
+        acompanham a festa, como grupos de congada, marujada e moçambique, que refletem a mistura
+        entre as culturas negra, indígena e portuguesa. A quermesse com comidas típicas, como o
+        refogado de carne, chamado de afogado, doces típicos e o popular bolinho de farinha de
+        milho, o tortinho ou bigorrilho, acontece nos 10 dias da festa. No sábado que antecede o
+        domingo de Pentecostes ocorre a Entrada dos Palmitos, cortejo popular único no Brasil com
+        este formato, que representa a celebração da colheita e agradece ao Divino Espírito
+        Santo. Atrai às ruas carros de bois, bandeiras dos devotos e várias manifestações.</string>
+    <string name="festivals_when_one">Primeiras semanas da Primavera</string>
+    <string name="festivals_when_two">Primeiras semanas do Outono</string>
+    <string name="festivals_when_three">No período de Pentecostes (50 dias após a Páscoa)</string>
+    <string name="festivals_where_one">Estrada Mogi-Salesopolis, Km 11, Cocuera</string>
+    <string name="festivals_where_two">Avenida Japão, 5.919, Porteira Preta, Jardim Santos Dumont I</string>
+    <string name="festivals_where_three">Av. Francisco Rodrigues Filho</string>
+
+    <string name="restaurants_title_one">Kidogão</string>
+    <string name="restaurants_title_two">MN Lámen</string>
+    <string name="restaurants_title_three">Bife Esquisito</string>
+    <string name="restaurants_title_four">Vegê Restaurante</string>
+    <string name="restaurants_title_five">Caipirado Restaurante</string>
+    <string name="restaurants_title_six">Restaurante Daruma</string>
+    <string name="restaurants_title_seven">Pastel Caseiro</string>
+    <string name="restaurants_title_eight">Lanchonete Estrela</string>
+
+    <string name="restaurants_text_one">\t\tKidogão é a lanchonete com o mais famoso cachorro
+        quente da região, que é preparado de uma forma diferente dos cachorros quentes comuns da
+        capital. Parada obrigatória para quem gosta de conhecer a gastronomia local.</string>
+    <string name="restaurants_text_two">\t\tO MN Lamen foi criado a partir do empreendimento da
+        MN Própolis Indústria, Comércio e Exportação Ltda.  O MN Lamen com intuito de promover a
+        alimentação saudável, pesquisou minuciosamente todos os ingredientes do Lamen e
+        desenvolveu um produto de alta qualidade e segurança, principalmente com nutrientes
+        essenciais à manutenção da saúde.</string>
+    <string name="restaurants_text_three">\t\tTradicional Restaurante que oferece prato tipico de
+        Mogi das Cruzes. Restaurante de um prato mandatório na cidade, todos conhecem e gostam. O
+        ambiente é bem simples, mas ninguém vai lá pelo local. Á primeira vista, um bife à
+        parmegiana. Mas vai além disso. Impossível não se antecipar e beliscar as batatas chips
+        fritas na hora da bandeja. Os ovos fritos dão o toque mais e personalizado.</string>
+    <string name="restaurants_text_four">\t\tO Vegê oferece um cardápio Self-Service ovo lacto
+        vegetariano que agrada os novos clientes, porque procuramos usar somente temperos
+        naturais e abolimos os químicos. Não temos frituras, mas oferecemos salgados assados
+        integrais o que proporciona aos clientes amigos uma refeição propicia a diminuição do seu
+        colesterol, reduzir o risco de contrair doenças cardiovasculares e evitar algum tipo de
+        câncer. Pregamos que o importante é montar um prato variado a começar pelo feijão com
+        arroz, e ao ingerir cereais e legumes que fornecem aminoácidos essenciais alem das
+        folhagens e de frutas (fibras e vitaminas). Os substitutos das proteínas são a soja e
+        seus derivados, feijões, lentilha, grão de bico, oleaginosas (amendoim, castanha,
+        amêndoa…) com fibras e antioxidantes que proporcionam uma pele mais jovem, ajudam no
+        trabalho do intestino e consequentemente perda de peso. O ideal é consumirmos menos
+        carne, pois os animais tendem a concentrar pesticidas e químicos na sua carne e leite, ao
+        passo que os vegetais mesmo não sendo orgânicos contem menos concentração. A carne
+        acumula 13 vezes mais pesticida que os alimentos vegetais.</string>
+    <string name="restaurants_text_five">\t\tA especialidade da casa é servir uma boa comida
+        tipicamente mineira com saladas. Confira o arroz carreteiro, feijão tropeiro, frango
+        caipira e o leitão a pururuca.</string>
+    <string name="restaurants_text_six">\t\tOferece pratos da culinária oriental, principalmente
+        a japonesa.</string>
+    <string name="restaurants_text_seven">\t\tPastel Caseiro foi fundada em 1969, com outro nome,
+        que precisou ser alterado por conta de uma franquia que chegou à cidade com o mesmo nome.
+        Apesar do revés, continuou sendo a melhor pastelaria da cidade.</string>
+    <string name="restaurants_text_eight">\t\tAssociar a Lanchonete e Choperia Estrela à maionese
+        e vice versa é um pensamento automático para a maioria dos mogianos. A maionese Estrela
+        vem fazendo sucesso desde o ano de 1972, quando a empresa tornou-se também uma
+        lanchonete. Nesta época, Dona Tereza então sócio-proprietária da empresa e grande
+        cozinheira adorava inovar e oferecer àqueles que frequentavam o local suas próprias
+        invenções. Foi a partir de muitos testes e experiências em um pequeno e velho
+        liquidificador que surgiu a primeira receita da maionese Estrela, receita esta seguida à
+        risca até os dias de hoje. Devido a aprovação de todos os que tinham a oportunidade de
+        provar os quitutes de Tereza que a maionese passou a ser incluída nos lanches da casa.</string>
+
+    <string name="restaurants_when_one">De segunda a sexta-feira, das 9h às 19h, sábados das 9h às 15h30</string>
+    <string name="restaurants_when_two">Almoço: Terça a Domingo: 11h30 às 15h Jantar: Terça a Sábado: 18h30 às 22h</string>
+    <string name="restaurants_when_three">Almoço: das 11h às 15h, Jantar das 18 às 22h</string>
+    <string name="restaurants_when_four">Almoço: das 11h às 14h30, Jantar das 18 às 21h30</string>
+    <string name="restaurants_when_five">De quinta a domingo e feriados das 12:00 às 16:00 horas</string>
+    <string name="restaurants_when_six">Almoço: das 11h30 às 14h30, Jantar das 18 às 21h30</string>
+    <string name="restaurants_when_seven">De segunda à sexta-feira, das 8h às 21h, e sábado, das 8h às 16h</string>
+    <string name="restaurants_when_eight">Aberto todos os dias, das 12h à meia noite</string>
+
+    <string name="restaurants_where_one">R. Pres. Rodrigues Alves, 285 - Centro</string>
+    <string name="restaurants_where_two">R. Cel. Souza Franco, 813</string>
+    <string name="restaurants_where_three">Rua Dr Deodato Wertheimer, 1562</string>
+    <string name="restaurants_where_four">Rua Antônio Meier, 108</string>
+    <string name="restaurants_where_five">Av. Francisco Rodrigues Filho, 6251</string>
+    <string name="restaurants_where_six">R. Dr. Ricardo Viléla, 899</string>
+    <string name="restaurants_where_seven">Av. Francisco Rodrigues Filho, 930 - Vila Mogilar</string>
+    <string name="restaurants_where_eight">R. José Bonifácio, 440 - Centro</string>
+
+</resources>

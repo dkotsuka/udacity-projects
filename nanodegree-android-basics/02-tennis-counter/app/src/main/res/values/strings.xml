@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PlacarTenis</string>
+    <string name="playerone">JOGADOR 1</string>
+    <string name="playertwo">JOGADOR 2</string>
+    <string name="placar">PLACAR (SETS)</string>
+    <string name="zerar">ZERAR</string>
+    <string name="venceu">venceu a partida por</string>
+    <string name="sets">sets a</string>
+    <string name="tiebreak">Os jogadores estão disputando o Tiebreak.</string>
+    <string name="fechouSet">fechou o set.</string>
+
+</resources>

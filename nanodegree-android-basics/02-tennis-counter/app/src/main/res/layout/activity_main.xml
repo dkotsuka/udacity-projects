@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.android.placartenis.MainActivity">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/splash" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/titleText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/redTitle"
+                    android:gravity="center"
+                    android:text="@string/playerone"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/score_one"
+                    style="@style/textLight"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/redLight"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textSize="90dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/titleText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/blueTitle"
+                    android:gravity="center"
+                    android:text="@string/playertwo"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/score_two"
+                    style="@style/textLight"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/blueLight"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textSize="90dp" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/status_jogo"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:paddingLeft="16dp"
+            android:background="@color/greenLight" />
+
+        <TextView
+            style="@style/titleText"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="1dp"
+            android:background="@color/greenDark"
+            android:gravity="center_vertical"
+            android:paddingLeft="22dp"
+            android:text="@string/placar" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                style="@style/placarText"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:background="@color/redWhite"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="@string/playerone" />
+
+            <TextView
+                android:id="@+id/one_set1"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/redWhite"
+                android:text="0" />
+
+            <TextView
+                android:id="@+id/one_set2"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/redWhite"
+                android:text="0" />
+
+            <TextView
+                android:id="@+id/one_set3"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/redWhite"
+                android:text="0" />
+
+            <TextView
+                android:id="@+id/one_set4"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/redWhite"
+                android:text="0" />
+
+            <TextView
+                android:id="@+id/one_set5"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/redWhite"
+                android:text="0" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                style="@style/placarText"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:background="@color/blueWhite"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="@string/playertwo" />
+
+            <TextView
+                android:id="@+id/two_set1"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/blueWhite"
+                android:text="0" />
+
+            <TextView
+                android:id="@+id/two_set2"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/blueWhite"
+                android:text="0" />
+
+            <TextView
+                android:id="@+id/two_set3"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/blueWhite"
+                android:text="0" />
+
+            <TextView
+                android:id="@+id/two_set4"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/blueWhite"
+                android:text="0" />
+
+            <TextView
+                android:id="@+id/two_set5"
+                style="@style/placarText"
+                android:layout_width="0dp"
+                android:layout_height="20dp"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@color/blueWhite"
+                android:text="0" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2">
+
+            <Button
+                android:id="@+id/bt_point_one"
+                style="@style/buttonText"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_red"
+                android:onClick="pontoJogadorUm"/>
+
+            <Button
+                android:id="@+id/bt_point_two"
+                style="@style/buttonText"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_blue"
+                android:onClick="pontoJogadorDois"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bt_zerar"
+            style="@style/titleText"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_button"
+            android:text="@string/zerar"
+            android:onClick="zerarTudo"/>
+
+
+    </LinearLayout>
+</ScrollView>

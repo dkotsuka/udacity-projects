@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/colorBackground"
+              android:foreground="?android:attr/selectableItemBackground"
+              android:orientation="vertical"
+              android:paddingBottom="6dp"
+              android:paddingTop="6dp">
+
+    <TextView
+        android:id="@+id/section_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorSection"
+        android:paddingLeft="12dp"
+        android:textAllCaps="true"
+        android:textColor="@color/colorTextSection"
+        android:textStyle="bold|italic"
+        tools:text="SPORTS"/>
+
+    <TextView
+        android:id="@+id/article_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="6dp"
+        android:textSize="21sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/publication_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:paddingRight="12dp"
+        android:textColor="@color/colorTextPublishDate"
+        tools:text="publicado em 21/11/2017"/>
+</LinearLayout>
